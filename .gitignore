@@ -6,4 +6,4 @@ www/
 .DS_Store
 Thumbs.db
 *.log
-*.apk
+# *.apk  — APK tracked intentionally
